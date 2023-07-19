@@ -1,0 +1,6 @@
+[submodule "Tools/BitExport"]
+	path = Tools/BitExport
+	url = https://github.com/szammyboi/BitExport
+[submodule "Tools/LifxBridge"]
+	path = Tools/LifxBridge
+	url = https://github.com/szammyboi/LifxBridge
